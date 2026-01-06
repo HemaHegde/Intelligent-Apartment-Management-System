@@ -1,0 +1,8 @@
+# ML Dependencies - Python 3.13 Compatible
+# Using latest versions with pre-built wheels for Python 3.13
+
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+imbalanced-learn>=0.12.0
+sentence-transformers>=2.3.0
